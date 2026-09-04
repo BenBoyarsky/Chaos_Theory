@@ -1,6 +1,6 @@
 ## -- Mandelbrot Set -- ##
 #Initial Conditions
-n <- 100
+n <- 9
 
 #Iterations
 iteration <- function(c) {
